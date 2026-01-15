@@ -1,4 +1,10 @@
-## Hi there 👋
+olá, sou o ian 
+
+## tecnologias estou apredendo 
+
+* git
+* lógica de programação
+* frameworks
 
 <!--
 **iancarloss1412/iancarloss1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
